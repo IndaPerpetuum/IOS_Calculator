@@ -1,0 +1,60 @@
+('C:\\Users\\Dani Acer PC\\PycharmProjects\\Password Management '
+ 'System\\build\\test_temporary\\test_temporary.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Users\\Dani Acer PC\\PycharmProjects\\Password Management '
+   'System\\build\\test_temporary\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\Dani Acer PC\\PycharmProjects\\Password Management '
+   'System\\build\\test_temporary\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\Dani Acer PC\\PycharmProjects\\Password Management '
+   'System\\build\\test_temporary\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\Dani Acer PC\\PycharmProjects\\Password Management '
+   'System\\build\\test_temporary\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\Dani Acer PC\\PycharmProjects\\Password Management '
+   'System\\build\\test_temporary\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\Dani Acer PC\\PycharmProjects\\Password Management '
+   'System\\build\\test_temporary\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Dani Acer PC\\PycharmProjects\\Password Management '
+   'System\\.venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Dani Acer PC\\PycharmProjects\\Password Management '
+   'System\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\Users\\Dani Acer PC\\PycharmProjects\\Password Management '
+   'System\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('test_temporary',
+   'C:\\Users\\Dani Acer PC\\PycharmProjects\\Password Management '
+   'System\\test_temporary.py',
+   'PYSOURCE')],
+ 'python312.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)

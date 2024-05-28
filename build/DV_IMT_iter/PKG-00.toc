@@ -1,0 +1,76 @@
+('C:\\Users\\Dani Acer PC\\PycharmProjects\\Password Management '
+ 'System\\build\\DV_IMT_iter\\DV_IMT_iter.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Users\\Dani Acer PC\\PycharmProjects\\Password Management '
+   'System\\build\\DV_IMT_iter\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\Dani Acer PC\\PycharmProjects\\Password Management '
+   'System\\build\\DV_IMT_iter\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\Dani Acer PC\\PycharmProjects\\Password Management '
+   'System\\build\\DV_IMT_iter\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\Dani Acer PC\\PycharmProjects\\Password Management '
+   'System\\build\\DV_IMT_iter\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\Dani Acer PC\\PycharmProjects\\Password Management '
+   'System\\build\\DV_IMT_iter\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\Dani Acer PC\\PycharmProjects\\Password Management '
+   'System\\build\\DV_IMT_iter\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Dani Acer PC\\PycharmProjects\\Password Management '
+   'System\\.venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Dani Acer PC\\PycharmProjects\\Password Management '
+   'System\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'C:\\Users\\Dani Acer PC\\PycharmProjects\\Password Management '
+   'System\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\Dani Acer PC\\PycharmProjects\\Password Management '
+   'System\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'C:\\Users\\Dani Acer PC\\PycharmProjects\\Password Management '
+   'System\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\Dani Acer PC\\PycharmProjects\\Password Management '
+   'System\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\Users\\Dani Acer PC\\PycharmProjects\\Password Management '
+   'System\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('DV_IMT_iter',
+   'C:\\Users\\Dani Acer PC\\PycharmProjects\\Password Management '
+   'System\\DV_IMT_iter.py',
+   'PYSOURCE')],
+ 'python312.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
